@@ -11,4 +11,3 @@ fn main() {
 
     //! These are called Inner Doc Comments in Rust. This will generate documentation for the enclosing item
 }
-
